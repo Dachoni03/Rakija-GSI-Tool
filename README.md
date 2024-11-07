@@ -3,6 +3,7 @@
 
 ## Released GSIs
 Telegram group: https://t.me/rakija_gsi
+
 Telegram channel: https://t.me/rakijagsi
 
 ## How to use
